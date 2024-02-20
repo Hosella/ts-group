@@ -1,0 +1,1 @@
+Made function that takes an array and key and returns an object where all the items are grouped by key.
